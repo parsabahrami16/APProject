@@ -1,0 +1,2 @@
+***Squad Standard Stats***:
+XG=expected goals - XA - PK=penalty kick zade - PKATT=pk gerefte - G+A - G+A-PK - XG+XA

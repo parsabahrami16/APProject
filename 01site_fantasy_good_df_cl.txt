@@ -1,0 +1,33 @@
+****json.keys = elements - teams *****
+*
+*
+*
+elements_df: 'chance_of_playing_next_round', 
+       'cost_change_event', 'cost_change_event_fall', 'cost_change_start',
+       'cost_change_start_fall', 'dreamteam_count', , 'ep_next',
+       , 'event_points', 'first_name', 'form', 'id', 'in_dreamteam',
+        'now_cost', 'points_per_game',
+       'second_name', 'selected_by_percent',
+       'status'=A==AVAILABLE (D==INJURE BY PRCENT) I=INJURE 100% U=TRANSFER N = NOT IN LIST S = SUSPEND, 
+       'team', 'team_code', 'total_points', 'transfers_in',
+       'transfers_in_event', 'transfers_out', 'transfers_out_event',
+       'value_form', 'value_season', 'web_name', 'minutes', 'goals_scored',
+       'assists', 'clean_sheets', 'goals_conceded', 'own_goals',
+       'penalties_saved', 'penalties_missed', 'yellow_cards', 'red_cards',
+       'saves', 'bonus', 'bps', 'influence', 'creativity', 'threat',
+       'ict_index', 'influence_rank', 'influence_rank_type', 'creativity_rank',
+       'creativity_rank_type', 'threat_rank', 'threat_rank_type',
+       'ict_index_rank', 'ict_index_rank_type',
+       'corners_and_indirect_freekicks_order',
+       , 'direct_freekicks_order',
+       , 'penalties_order', ]
+*
+*
+*
+
+teams_df=[[ 'name', 
+        'short_name', 'strength', 
+       , 'strength_overall_home', 'strength_overall_away',
+       'strength_attack_home', 'strength_attack_away', 'strength_defence_home',
+       'strength_defence_away'],
+      dtype='object')
